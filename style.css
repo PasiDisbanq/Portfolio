@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(25, 25, 25);
+    color: rgb(227, 227, 227);
+    font-size: 120%;
+}
+
+hr {
+    width: 80%;
+    margin-left: -10%;
+}
+
+a {
+    font-weight: 500;
+    color:rgb(158, 157, 157);
+}
+a:hover {
+    color:rgb(213, 213, 213);
+}
+
+.date {
+    color:rgb(189, 189, 189);
+}
+
+.date {
+    margin-top: -0.5%;
+}
+
+.reward {
+    margin-top: 2%;
+}
+.rd {
+    margin-top: -0.5% ;
+}
+
+p, h1, h2, h3 {
+    margin-left: 4%;
+}
+
+li {
+    margin-bottom: 0.5%;
+}
+
+ul {
+    margin-left: 3%;
+}
